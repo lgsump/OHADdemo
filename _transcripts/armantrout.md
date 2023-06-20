@@ -1,11 +1,11 @@
 ---
 object-id: armantrout
-title: Rae Armantrout (YouTube)
-date-interviewed: March 27, 2014
-interviewer: Devin Becker
-location: San Diego, CA
+title: Donna McKevitt (YouTube)
+date-interviewed: December 6, 2009
+interviewer: 
+location: 
 av_source: YouTube
-audiovideo-id: BX_bURONf78
+audiovideo-id: Fh2Uw8rwYY4
 ---
 
- Rae Armantrout (born 13 April 1947) is an American poet generally associated with the Language poets. Armantrout was born in Vallejo, California, but grew up in San Diego. She has published ten books of poetry and has also been featured in a number of major anthologies. Armantrout currently teaches at the University of California, San Diego, where she is Professor of Poetry and Poetics
+You are listening to 'I sit here immobile' from the critically acclaimed album 'Translucence' by the English composer Donna McKevitt, featuring settings of the poetry of the late, great, Derek Jarman. 
